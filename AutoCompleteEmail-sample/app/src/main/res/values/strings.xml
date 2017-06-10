@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoCompleteEmail-sample</string>
+    <string-array name="email_sufixs">
+        <item>\u0040qq.com</item>
+        <item>\u0040163.com</item>
+        <item>\u0040gmail.com</item>
+        <item>\u0040sina.com</item>
+        <item>\u0040hotmail.com</item>
+        <item>\u0040yahoo.cn</item>
+        <item>\u0040sohu.com</item>
+        <item>\u0040foxmail.com</item>
+        <item>\u0040139.com</item>
+        <item>\u0040yeah.net</item>
+        <item>\u0040vip.qq.com</item>
+        <item>\u0040vip.sina.com</item>
+    </string-array>
+</resources>
